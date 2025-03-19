@@ -1,4 +1,4 @@
-# Portfolio
+# Learning portfolio
 I'm a data scientist who's actively expanding my skills and experience in the field. With a strong foundation in Python, R, and SQL, I'm continuously developing my expertise in machine learning, statistical analysis, and data visualization.
 
 My journey includes both academic training through my MSc in Data Science and practical application in professional settings. I've worked on projects involving predictive modeling, data analysis for business decisions, and developing automated solutions.
